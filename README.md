@@ -20,4 +20,4 @@ Sinta-se livre para baixar ou utilizar elas em seu estudo 📚
 
 ## Observações
 
-[![name](link to image on GH)](link to your URL)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carrijo-ferrari-4aa93b20b/)
