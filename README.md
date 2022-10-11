@@ -18,3 +18,6 @@ Sinta-se livre para baixar ou utilizar elas em seu estudo 📚
 | Introdução à Ciência da Computação          | Alessandro Bertolani Oliveira                                       | 
 | Lógica para Computação                      | Alessandro Bertolani Oliveira                                       |
 
+## Observações
+
+[![name](link to image on GH)](link to your URL)
