@@ -18,6 +18,8 @@ Sinta-se livre para baixar ou utilizar elas em seu estudo 📚
 | Introdução à Ciência da Computação          | Alessandro Bertolani Oliveira                                       | 
 | Lógica para Computação                      | Alessandro Bertolani Oliveira                                       |
 
-## Observações
+## Observações 🔎
+
+Se precisar de ajuda, ou tiver alguma dúvida, não hesite em me contactar.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carrijo-ferrari-4aa93b20b/)
