@@ -14,7 +14,7 @@ Sinta-se livre para baixar ou utilizar elas em seu estudo 📚
 | Design e Desenvolvimento de Banco de Dados  | Abrantes Araujo Silva Filho                                         |
 | Estrutura de Computadores                   | Denis Rodrigues da Silva                                            |
 | Experiência e Interface com o Usuário       | Susiléa Abreu dos Santos Lima                                       |
-| Gestão de Pessoas                           | Marinete Andrião Francischetto,Tutor(a) - Ana Paula Conrad          |
+| Gestão de Pessoas                           | Marinete Andrião Francischetto,Tutor(a) - Ana Paula Conrado         |
 | Introdução à Ciência da Computação          | Alessandro Bertolani Oliveira                                       | 
 | Lógica para Computação                      | Alessandro Bertolani Oliveira                                       |
 
