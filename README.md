@@ -20,6 +20,8 @@ Sinta-se livre para baixar ou utilizar elas em seu estudo 📚
 
 ## Observações 🔎
 
+Dentro de algumas disciplinas vocês pode encontrar a pasta "Outros". Nessa pasta são encontrados outras provas ou trabalhos de períodos passados que também podem ajudar.
+
 Se precisar de ajuda, ou tiver alguma dúvida, não hesite em me contactar.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carrijo-ferrari-4aa93b20b/)
