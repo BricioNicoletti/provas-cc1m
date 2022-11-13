@@ -24,4 +24,6 @@ Dentro de algumas disciplinas vocês pode encontrar a pasta "Outros". Nessa past
 
 Se precisar de ajuda, ou tiver alguma dúvida, não hesite em me contactar.
 
+*Ah, tenho todas essas provas guardadas, qualquer coisa o lider da sala pode me pedir impressa que eu dou sem problemas*
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carrijo-ferrari-4aa93b20b/)
