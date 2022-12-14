@@ -1,12 +1,18 @@
 # Avaliações CC1M 2022/2 💥
 
-Olá, me chamo Lucas Carrijo, fui lider da turma 2022/2 de Ciências da Computação da UVV. Um dos principais problemas é que não tinhamos as provas passadas para nos basear nos estudos. Então criei esse repositório com as provas escaneadas às turmas futuras.
+Olá, me chamo Lucas Carrijo, fui líder da turma 2022/2 de Ciências da Computação da UVV. Criei esse repositório com as provas escaneadas às turmas futuras e adicionei todos os projetos que desenvolvemos também. Acredito que isso vá ajudar bastante vocês que estão começando agora 😉.
 
-Sinta-se livre para baixar ou utilizar elas em seu estudo 📚
+Sinta-se livre para baixar ou utilizar elas em seu estudo 📚.
+
+## Como baixar? 💻
+
+Acredito que muitos de vocês nunca usaram Github mas vão usar, relaxa hahaha. Para baixar este repositório deve-se clicar no botão verde escrito “< > Code” e depois em “Download Zip”.
+
+![imagem](https://i.imgur.com/H4b9rik.png)
+
+Pronto, você já tem todos os arquivos no seu computador.
 
 ## Disciplinas e professores 👨‍🏫
-
-Às vezes é bom saber quem foi o professor que ministrou a prova, cada um tem seu metodo de aplicação:
 
 | Disciplina                                  | Professor                                                           |
 | -------------                               | -------------                                                       |
@@ -19,8 +25,6 @@ Sinta-se livre para baixar ou utilizar elas em seu estudo 📚
 | Lógica para Computação                      | Alessandro Bertolani Oliveira                                       |
 
 ## Observações 🔎
-
-Dentro de algumas disciplinas vocês pode encontrar a pasta "Outros". Nessa pasta são encontrados outras provas ou trabalhos de períodos passados que também podem ajudar.
 
 Se precisar de ajuda, ou tiver alguma dúvida, não hesite em me contactar.
 
