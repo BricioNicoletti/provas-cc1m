@@ -6,7 +6,7 @@ Sinta-se livre para baixar ou utilizar elas em seu estudo 📚.
 
 ## Como baixar? 💻
 
-Acredito que muitos de vocês nunca usaram Github mas vão usar, relaxa hahaha. Para baixar este repositório deve-se clicar no botão verde escrito **< > Code** e depois em **Download Zip**.
+Acredito que muitos de vocês nunca usaram Github *mas vão usar, relaxa hahaha*. Para baixar este repositório deve-se clicar no botão verde escrito **< > Code** e depois em **Download Zip**.
 
 ![imagem](https://i.imgur.com/H4b9rik.png)
 
