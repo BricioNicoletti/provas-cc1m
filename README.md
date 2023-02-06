@@ -11,6 +11,7 @@ Acredito que muitos de vocês nunca usaram Github *mas vão usar, relaxa hahaha*
 ![imagem](https://i.imgur.com/H4b9rik.png)
 
 Pronto, você já tem todos os arquivos no seu computador.
+Lembrando que o arquivo contém aproximadamente **40 MB**
 
 ## Disciplinas e professores 👨‍🏫
 
